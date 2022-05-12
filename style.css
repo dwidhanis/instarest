@@ -5,13 +5,13 @@ body {
 
 .container {
     color: white;
-    background-image: url(/background.jpg);
+    background-image: url(background.jpg);
     background-size: contain;
 }
 
 .content {
     padding: 10px;
-    background-image: url(/menu.jpg);
+    background-image: url(menu.jpg);
     background-size:cover;
 }
 
